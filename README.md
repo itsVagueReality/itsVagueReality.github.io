@@ -2,7 +2,7 @@
 
 Vague Reality is a human computer interaction startup idea which is still in development mode.
 
-### stages
+#### stages
 * Idea Formulation
 * Validation & Viability
 * Economic Model
@@ -12,6 +12,6 @@ Vague Reality is a human computer interaction startup idea which is still in dev
 
 First three steps are crucial, although that doesn't mean other steps are easy.
 
-##Idea
+### Idea
 
-PDF accessibility viewer 
+##### PDF accessibility viewer 
