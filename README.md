@@ -1,6 +1,6 @@
 # Vague Reality
 
-Vague Reality is a startup idea which is still in development mode.
+Vague Reality is a human computer interaction startup idea which is still in development mode.
 
 ### stages
 * Idea Formulation
