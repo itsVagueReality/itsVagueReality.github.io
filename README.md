@@ -1,17 +1,7 @@
-# Vague Reality
+# Vague Reality - ### Editorial by the people for the people
 
-Vague Reality is a human computer interaction startup idea which is still in development mode.
+Vague Reality is platform designed to decentralize the tradional news editorials. Giving more power to the general public, to express their point of view on the current issues. We hope to mitigate the gaps between government, media and the public. 
 
-#### stages
-* Idea Formulation
-* Validation & Viability
-* Economic Model
-* Launch
-
-* Fail - Learn - Grow
-
-First three steps are crucial, although that doesn't mean other steps are easy.
-
-### Idea
-
-##### PDF accessibility viewer 
+# Features
+* 750 Max word limit
+* Citations for references
